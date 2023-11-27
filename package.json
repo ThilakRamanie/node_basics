@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  },
+  "name": "node_basics",
+  "description": "Node.js tutorial series by dave gray on youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 4_web_server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThilakRamanie/node_basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThilakRamanie/node_basics/issues"
+  },
+  "homepage": "https://github.com/ThilakRamanie/node_basics#readme"
+}
